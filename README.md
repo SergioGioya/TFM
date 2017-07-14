@@ -21,8 +21,3 @@ El proyecto ha constado de las siguientes  __fases:__<br>
 El recomendador devuelve un barrio  con información relevante sobre el barrio recomendado
 
 
-
-
-```python
-
-```
